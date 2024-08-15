@@ -34,6 +34,11 @@ This is a weather application that allows users to get real-time weather informa
 
 # Screenshots
 
+![image-alt](https://github.com/Shameelvk95/Weather-App/blob/634663f184844f6259aa49cf21f06d3c1f7b7c5e/Screenshots/Screenshot%202024-08-15%20140349.png)
+
+![image-alt](https://github.com/Shameelvk95/Weather-App/blob/634663f184844f6259aa49cf21f06d3c1f7b7c5e/Screenshots/Screenshot%202024-08-15%20140735.png)
+
+![image-alt](https://github.com/Shameelvk95/Weather-App/blob/634663f184844f6259aa49cf21f06d3c1f7b7c5e/Screenshots/Screenshot%202024-08-15%20140750.png)
 
 
 
